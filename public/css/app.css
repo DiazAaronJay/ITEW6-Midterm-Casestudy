@@ -1,0 +1,15 @@
+.card-header-bg {
+    background-color: #45474B;
+    color: #fff; 
+    font-size: 24px;
+}
+
+.btn-submit {
+    background-color: #222222;
+    color: #fff;
+}
+
+.btn-submit:hover {
+    background-color: #434242;
+    color: #fff;
+}
